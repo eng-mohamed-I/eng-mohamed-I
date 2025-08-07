@@ -54,8 +54,7 @@
 </p>
 
 <hr/>
-[Joke](https://readme-jokes.vercel.app/api?hideBorder&theme=default)
-
+![Joke](https://readme-jokes.vercel.app/api?hideBorder&theme=default)
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
