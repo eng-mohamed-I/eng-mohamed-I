@@ -54,7 +54,8 @@
 </p>
 
 <hr/>
-![Joke](https://readme-jokes.vercel.app/api?hideBorder&theme=default)
+<img src="https://jokeapi-github-readme.vercel.app/api?type=single&format=svg" />
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
