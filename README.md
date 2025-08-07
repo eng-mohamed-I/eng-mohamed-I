@@ -2,17 +2,17 @@
 
 <div align="center">
 
-<h2>💫 About Me</h2>
+<h2>About Me</h2>
 
 <p>
-📫 <strong>You can reach me:</strong> dev.mohamedyassin@gmail.com <br/>
-💬 <strong>Ask me about:</strong> Javascript - Typescript - React.js - Next.js - Node.js - Express - MongoDB - Hono - Linux <br/>
-🌱 <strong>I’m currently learning:</strong> SQL - MySQL - PostgreSQL - Docker - Prisma
+<strong>You can reach me:</strong> dev.mohamedyassin@gmail.com <br/>
+<strong>Ask me about:</strong> Javascript - Typescript - React.js - Next.js - Node.js - Express - MongoDB - Hono - Linux <br/>
+strong>I’m currently learning:</strong> SQL - MySQL - PostgreSQL - Docker - Prisma
 </p>
 
 <hr/>
 
-<h2>🌐 Socials</h2>
+<h2>Socials</h2>
 
 <a href="https://linkedin.com/in/muhamedyassin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
@@ -23,7 +23,7 @@
 
 <hr/>
 
-<h2>💻 Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -54,9 +54,6 @@
 </p>
 
 <hr/>
-
-<h2>✍️ Random Dev Quote</h2>
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
