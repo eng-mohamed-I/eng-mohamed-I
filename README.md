@@ -3,7 +3,6 @@
 <div align="center">
 
 ## About Me
-
 📫 You can reach me: dev.mohamedyassin@gmail.com  
 💬 Ask me about: Javascript - Typescript - React.js - Next.js - Node.js - Express - MongoDB - Hono - Linux  
 🌱 I’m currently learning: SQL - MySQL - PostgreSQL - Docker - Prisma  
@@ -11,7 +10,6 @@
 ---
 
 ## Socials
-
 <a href="https://linkedin.com/in/muhamedyassin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
@@ -22,7 +20,6 @@
 ---
 
 ## Tech Stack
-
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
