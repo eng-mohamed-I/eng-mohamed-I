@@ -7,7 +7,7 @@
 <p>
 <strong>You can reach me:</strong> dev.mohamedyassin@gmail.com <br/>
 <strong>Ask me about:</strong> Javascript - Typescript - React.js - Next.js - Node.js - Express - MongoDB - Hono - Linux <br/>
-strong>I’m currently learning:</strong> SQL - MySQL - PostgreSQL - Docker - Prisma
+<strong>I’m currently learning:</strong> SQL - MySQL - PostgreSQL - Docker - Prisma
 </p>
 
 <hr/>
@@ -54,7 +54,7 @@ strong>I’m currently learning:</strong> SQL - MySQL - PostgreSQL - Docker - Pr
 </p>
 
 <hr/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+[Joke](https://readme-jokes.vercel.app/api?hideBorder&theme=default)
 
 </div>
 
