@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 💫 About Me
+## About Me
 
 📫 You can reach me: dev.mohamedyassin@gmail.com  
 💬 Ask me about: Javascript - Typescript - React.js - Next.js - Node.js - Express - MongoDB - Hono - Linux  
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌐 Socials
+## Socials
 
 <a href="https://linkedin.com/in/muhamedyassin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
@@ -21,7 +21,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -50,9 +50,6 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 
 ---
-
-### ✍️ Random Dev Quote
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
